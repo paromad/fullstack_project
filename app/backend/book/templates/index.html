@@ -1,0 +1,16 @@
+<html>
+    <body>
+        {% for book in books %}
+        <div>
+            {{book.id}}
+            {{book.title}}
+            {{book.author}}
+            <img
+                src="/media/{{book.image}}" 
+                width="100"
+                height="150"
+            />
+        </div>
+        {% endfor %}
+    </body>
+</html>

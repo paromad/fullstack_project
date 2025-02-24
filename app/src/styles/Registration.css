@@ -1,0 +1,51 @@
+.reg_page{
+    margin: 0%;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.RegistrationForm {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+    gap: 20px;
+    padding-top: 10%;
+    width: 80%;
+}
+
+.RegistrationForm input {
+    width: 90%;
+    background: #f6ddc5;
+    color: rgb(88, 57, 7);
+
+    outline: none;
+    border-color: inherit;
+    border: none;
+    box-shadow: none;
+    mask-border: none;
+    font-family: fraunces;
+
+    height: 50px;
+    width: 500px;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    padding-left: 3%;
+}
+
+.RegName {
+    margin-top: 3%;
+    color: rgb(149, 82, 15);
+    font-weight: 600;
+    font-size: 32px;
+    display: flex;
+}
+
+.Text {
+    font-size: 30px;
+    color: rgb(149, 96, 43);
+}

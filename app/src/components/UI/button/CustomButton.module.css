@@ -1,0 +1,8 @@
+.customBtn {
+    padding: 5px 10px;
+    background: transparent;
+    font-size: 23px;
+    color: rgb(164, 107, 33);
+    border: 2px solid rgb(164, 107, 33);
+    border-radius: 10px;
+}

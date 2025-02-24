@@ -1,0 +1,12 @@
+[
+    {"id": 1,
+      "title": "Возраст зрелости",
+      "year": "1945",
+      "author": "Жан-Поль Сартр",
+      "image": "/localhost/images/1.png"},
+    {"id": 2,
+      "title": "Все закончится на нас",
+      "year": "2023",
+      "author": "Колин Гувер",
+      "image": "images/2.png"}
+]

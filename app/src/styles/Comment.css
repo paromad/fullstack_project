@@ -1,0 +1,29 @@
+.comments_info{
+    display: flex;
+    flex-direction: column;
+    max-width: 95%;
+    min-width: 95%;
+}
+
+.comments{
+    margin: 0.9%;
+    display: flex;
+    flex-direction: column;
+    height: 150px;
+    width: 100%;
+
+    background-color: #dec07e;
+    border-radius: 10px;
+}
+
+.author{
+    margin: 1%;
+    font-family: Fuggles;
+    font-size: 25px;
+}
+
+.comment_text{
+    margin: 1%;
+    font-family: Fraunces;
+    font-size: 20px;
+}

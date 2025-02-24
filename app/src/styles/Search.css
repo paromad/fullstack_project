@@ -1,0 +1,27 @@
+.search{
+    margin: 0%;
+    margin-top: 2%;
+    margin-left: 17.5%;
+    margin-right: 17.5%;
+
+    background-color: #FFF9F4;
+
+    border: thin solid #868686;
+    border-radius: 10px;
+}
+
+.text_search{
+    margin: 0.5%;
+    margin-left: 2%;
+    font-family: Fuggles;
+    font-size: 100%;
+
+    color: #868686;
+}
+
+.not_found{
+    padding-top: 400px;
+    font-size: 40px;
+    color: rgb(149, 96, 43);
+    align-self: center;
+}

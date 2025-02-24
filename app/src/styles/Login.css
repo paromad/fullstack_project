@@ -1,0 +1,10 @@
+.auth {
+    height: 950px;
+    width: 100%;
+    background: #FFF9F4;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+    line-height: 32px;
+}

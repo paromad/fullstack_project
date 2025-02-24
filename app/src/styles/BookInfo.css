@@ -1,0 +1,42 @@
+.full_book_info {
+    padding-top: 5%;
+    display: flex;
+    width: 100%;
+    max-height: 200px;
+    flex-direction: column;
+    justify-content: top;
+    background-color: #FFF9F4;
+}
+
+.base_book_info {
+    width: 45%;
+    height: 600px;
+}
+
+.add_button {
+    margin-left: 5%;
+}
+
+.annotation {
+    width: 45%;
+    margin: 0.5%;
+    padding: 2%;
+    height: 400px;
+    background-color: #dec07e;
+    border-radius: 10px;
+}
+
+.annotation_text {
+    max-height: 90%;
+    font-size: 20px;
+}
+
+.annotation_title {
+    font-size: 25px;
+}
+
+.comments {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
